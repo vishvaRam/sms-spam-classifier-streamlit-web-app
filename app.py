@@ -13,10 +13,9 @@ import nltk
 pr = PorterStemmer()
 nltk.download('stopwords')
 
-# to access the full width 
-st.set_page_config(layout="wide")
 st.set_page_config(
   page_title="SMS Spam Classifier",
+  layout="wide"
 )
 
 @st.cache_data
