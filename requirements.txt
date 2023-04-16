@@ -1,0 +1,5 @@
+nltk==3.8.1
+numpy==1.23.5
+streamlit==1.21.0
+streamlit_lottie==0.0.3
+tensorflow==2.10.0
